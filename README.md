@@ -15,3 +15,7 @@ CHITKARA UNIVERSITY INSTITUTE OF ENGINEERING & TECHNOLOGY (CUIET) https://www.ch
 
 Artificial Intelligence
 Robotics
+
+#Hobbies
+Reading
+Cooking
